@@ -27,7 +27,7 @@ checkout. Leave it alone.
 Vendored via `git subtree` at the prefix `util/`:
 
 ```sh
-git remote add util https://github.com/crufi/util.git
+git remote add util https://github.com/crufi/think-c-util.git
 git subtree add --prefix=util util main --squash
 ```
 
